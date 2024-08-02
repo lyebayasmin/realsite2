@@ -1,0 +1,46 @@
+.navbar{
+    position: absolute;
+    top: 4%;
+    right: 30%;
+}
+
+.navbar li a{
+    font-size: 17px;
+    margin: 7px;
+}
+
+.container{
+    position: absolute;
+    top: 24%;
+    right: 23%;
+}
+
+.container2{
+    margin-top: 1px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.box1{
+    height: 300px;
+    width: 500px;
+    margin: 55px;
+    text-align: center;
+}
+
+.box1 p{
+    opacity: 0.7;
+    font-size: 12px;
+}
+
+header h1{
+    position: absolute;
+    top: 1px;
+    left: 3%;
+}
+
+header p{
+    position: absolute;
+    left: 3.5%;
+    top: 13%;
+}

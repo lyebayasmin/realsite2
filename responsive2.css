@@ -1,0 +1,32 @@
+.navbar li a{
+    font-size: 12px;
+    margin: 5px;
+}
+
+header{
+    position: relative;
+}
+
+header button{
+    position: absolute;
+    top: 5%;
+    right: 2%;
+}
+
+header h1{
+    position: absolute;
+    top: 2%;
+    font-size: 30px;
+}
+
+header p{
+    position: absolute;
+    top: 9%;
+    letter-spacing: 2px;
+}
+
+.container{
+    position: absolute;
+    top: 24%;
+    right: 7%;
+}
